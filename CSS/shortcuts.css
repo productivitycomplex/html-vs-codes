@@ -1,0 +1,17 @@
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: whitesmoke;
+  background-color: darkseagreen;
+}
+
+.Commands {
+  font-size: large;
+}
+
+.Image1 {
+  height: 70%;
+  width: 70%;
+}
